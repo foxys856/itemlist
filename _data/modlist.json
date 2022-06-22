@@ -12,12 +12,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Gouda quiche",
-    "name": "MoHAR framework",
-    "steamId": "2057001924",
-    "version": "1.0.7875.31864"
-  },
-  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -36,6 +30,12 @@
     "version": null
   },
   {
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.7875.31864"
+  },
+  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -46,6 +46,12 @@
     "name": "Vanilla Factions Expanded - Settlers",
     "steamId": "2052918119",
     "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki,  Luizi and  xrushha",
@@ -66,10 +72,46 @@
     "version": null
   },
   {
-    "author": "Audioviper (Tweaked by Xaviien)",
-    "name": "Weapon Condition Matters, and so does Quality",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings",
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Oskar Potocki,  ISOREX,  xrushha,  legodude17 and  Chowder",
+    "name": "Vanilla Factions Expanded - Classical",
+    "steamId": "2787850474",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -78,10 +120,22 @@
     "version": "1.3.7862.41411"
   },
   {
-    "author": "Oskar Potocki,  Kikohi and  Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
+    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and  Taranchuk",
@@ -96,34 +150,40 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
-  },
-  {
-    "author": "Oskar Potocki,  xrushha and  SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
+    "author": "Audioviper (Tweaked by Xaviien)",
+    "name": "Weapon Condition Matters, and so does Quality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tostov",
+    "name": "Simple Industrial Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": "2534328163",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.3.1"
+    "author": "Sarg Bjornson and  AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Nemonian",
-    "name": "Moyo-From the depth",
-    "steamId": "2182305386",
-    "version": "1.3.4"
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
   },
   {
     "author": "targhetti",
@@ -180,12 +240,6 @@
     "version": "0.5.0.0"
   },
   {
-    "author": "Shadowrabbit",
-    "name": "[SR]Factional War",
-    "steamId": "2534328163",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "No One Left Behind",
     "steamId": "2401146569",
@@ -196,12 +250,6 @@
     "name": "Stack XXL",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and  XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -218,12 +266,6 @@
   {
     "author": "DimonSever000",
     "name": "Psionic+",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "newcolonist",
-    "name": "Large Faction Bases",
     "steamId": null,
     "version": null
   },
@@ -268,18 +310,6 @@
     "name": "Recon And Discovery (Continued)",
     "steamId": "2035131107",
     "version": "1.3.1"
-  },
-  {
-    "author": "Despenso",
-    "name": "Small Simple Research Bench",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Despenso",
-    "name": "Small Hi-tech Research Bench",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Linkolas",
@@ -348,12 +378,6 @@
     "version": null
   },
   {
-    "author": "LadyCookie",
-    "name": "Cookie Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Meditation Freedom (Legacy Version)",
     "steamId": null,
@@ -414,8 +438,26 @@
     "version": null
   },
   {
+    "author": "LadyCookie",
+    "name": "Cookie Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Fallout Traits (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Medieval Talents",
+    "steamId": "1916352291",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colors",
     "steamId": null,
     "version": null
   },
@@ -462,12 +504,6 @@
     "version": null
   },
   {
-    "author": "Nemonian",
-    "name": "Moyo-The cartel arrives",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Team aRatoCat",
     "name": "Ursine of the Rim",
     "steamId": null,
@@ -492,8 +528,26 @@
     "version": null
   },
   {
+    "author": "Nemonian",
+    "name": "Moyo-From the depth",
+    "steamId": "2182305386",
+    "version": "1.3.4"
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-The cartel arrives",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Zayl",
     "name": "NakinRace",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Vulpine Race Pack (Continued)",
     "steamId": null,
     "version": null
   },
@@ -546,12 +600,6 @@
     "version": null
   },
   {
-    "author": "Sir Van and Ythern",
-    "name": "Stabilized Mechanites",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dallt",
     "name": "Augmented Vanilla - Grenades",
     "steamId": null,
@@ -560,12 +608,6 @@
   {
     "author": "m00nl1ght-dev",
     "name": "Biome Transitions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
     "version": null
   },
@@ -590,12 +632,6 @@
   {
     "author": "Xen and  forestfey",
     "name": "Dire Wolf",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
   },
@@ -666,12 +702,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Tostov",
-    "name": "Simple Industrial Factions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Azuraal",
     "name": "Choice Of Psycasts",
     "steamId": "2293460251",
@@ -720,18 +750,6 @@
     "version": null
   },
   {
-    "author": "Sarg Bjornson and  AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "xrushha",
     "name": "Anima Animals",
     "steamId": null,
@@ -744,28 +762,10 @@
     "version": "1.1.1.0"
   },
   {
-    "author": "sulusdacor",
-    "name": "[sd] round tables (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] Faction Control",
-    "steamId": "1509102551",
-    "version": "1.0.8051.16528"
-  },
-  {
     "author": "Mlie",
     "name": "Live With The Pain",
     "steamId": "2659985388",
     "version": "1.0.5.0"
-  },
-  {
-    "author": "Kor_HellCross",
-    "name": "H.C_AnimalReskins_Complete2",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -816,30 +816,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki,  xrushha and  legodude17",
-    "name": "Vanilla Factions Expanded - Ancients",
-    "steamId": "2654846754",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Vanilla Expanded team",
-    "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": "2231295285",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  ISOREX,  xrushha,  legodude17 and  Chowder",
-    "name": "Vanilla Factions Expanded - Classical",
-    "steamId": "2787850474",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Aquiles",
     "name": "Vanilla Animals Expanded — Caves",
     "steamId": "2576512001",
@@ -858,6 +834,24 @@
     "version": "1.0.3"
   },
   {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
+  },
+  {
+    "author": "Kor_HellCross",
+    "name": "H.C_AnimalReskins_Complete2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "m00nl1ght-dev",
     "name": "Map Preview",
     "steamId": "2800857642",
@@ -870,38 +864,8 @@
     "version": null
   },
   {
-    "author": "Zylle",
-    "name": "More Vanilla Biomes",
-    "steamId": "1931453053",
-    "version": "0.1.5.01"
-  },
-  {
-    "author": "Anonymous, legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "PlayIgel,  Alastair,  Kayedon,  SalmonToastie and  Xrushha",
     "name": "VFME - Caravan Packs!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Startup impact",
-    "steamId": "1684944322",
-    "version": "1.1.7867.20184"
-  },
-  {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
-  },
-  {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Storytellers Expanded - Empress Evil",
     "steamId": null,
     "version": null
   },
@@ -912,40 +876,22 @@
     "version": null
   },
   {
-    "author": "Dorely",
-    "name": "BetaTraps",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "shite",
-    "name": "Traps Plus (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Kapitan Oczywisty",
     "name": "Change map edge limit",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sierra",
-    "name": "RimTraits - Medieval Talents",
-    "steamId": "1916352291",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sierra",
-    "name": "RimTraits - Vanilla Trait Colors",
+    "author": "Zircaroi",
+    "name": "No Natural Psyfocus Decrease",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.1.0.0"
+    "author": "AUTOMATIC",
+    "name": "Startup impact",
+    "steamId": "1684944322",
+    "version": "1.1.7867.20184"
   },
   {
     "author": "Dingo",

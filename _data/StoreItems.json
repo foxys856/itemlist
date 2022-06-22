@@ -5257,12 +5257,6 @@
 		"defname": "Joy_DartsBoard"
 	},
 	{
-		"abr": "deathsuperacidifier",
-		"price": 1500,
-		"category": "Bionic",
-		"defname": "VESWW_DeathSuperAcidifier"
-	},
-	{
 		"abr": "decoy",
 		"price": 140,
 		"category": "Security",
@@ -7369,18 +7363,6 @@
 		"defname": "VFEA_StabilisedMucusInducer"
 	},
 	{
-		"abr": "stabilizedfibrousmechanites",
-		"price": 5833,
-		"category": "Drugs",
-		"defname": "StabilizedFibrousMechanites"
-	},
-	{
-		"abr": "stabilizedsensorymechanites",
-		"price": 5833,
-		"category": "Drugs",
-		"defname": "StabilizedSensoryMechanites"
-	},
-	{
 		"abr": "strawberries",
 		"price": 2,
 		"category": "Vegetarian",
@@ -7487,24 +7469,6 @@
 		"price": 70,
 		"category": "Furniture",
 		"defname": "Table_1x1c"
-	},
-	{
-		"abr": "table(round)",
-		"price": 176,
-		"category": "Furniture",
-		"defname": "sd_roundtable"
-	},
-	{
-		"abr": "tablebig(round)",
-		"price": 350,
-		"category": "Furniture",
-		"defname": "sd_roundtable_big"
-	},
-	{
-		"abr": "tablesmall(round)",
-		"price": 106,
-		"category": "Furniture",
-		"defname": "sd_roundtable_small"
 	},
 	{
 		"abr": "tacklebox",
@@ -9709,12 +9673,6 @@
 		"defname": "AngelMeleeWeapon_AngelicSpear"
 	},
 	{
-		"abr": "deadfalltrap",
-		"price": 245,
-		"category": "Security",
-		"defname": "BetaTraps_TrapDeadfall"
-	},
-	{
 		"abr": "draconicmarinearmor",
 		"price": 4325,
 		"category": "Utility",
@@ -9775,6 +9733,192 @@
 		"defname": "Meat_TRAHS_ZeraoraRace"
 	},
 	{
+		"abr": "basilisk",
+		"price": 583,
+		"category": "Animals",
+		"defname": "WMH_Basilisk"
+	},
+	{
+		"abr": "basilisktrophy(grand)",
+		"price": 1375,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandBasilisk"
+	},
+	{
+		"abr": "bearofleet",
+		"price": 200,
+		"category": "Animals",
+		"defname": "WMH_Bearofleet"
+	},
+	{
+		"abr": "bearofleettrophy(grand)",
+		"price": 1258,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandBearofleet"
+	},
+	{
+		"abr": "chort",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "WMH_Chort"
+	},
+	{
+		"abr": "chorttrophy(grand)",
+		"price": 3600,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandChort"
+	},
+	{
+		"abr": "cyclops",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "WMH_Cyclops"
+	},
+	{
+		"abr": "cyclopstrophy(grand)",
+		"price": 1800,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandCyclops"
+	},
+	{
+		"abr": "djinn",
+		"price": 417,
+		"category": "Animal",
+		"defname": "WMH_Djinn"
+	},
+	{
+		"abr": "djinntrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeDjinn"
+	},
+	{
+		"abr": "ekimmara",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_Ekimmara"
+	},
+	{
+		"abr": "ekimmaratrophy",
+		"price": 683,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeEkimmara"
+	},
+	{
+		"abr": "fiend",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "WMH_Fiend"
+	},
+	{
+		"abr": "fiendtrophy(grand)",
+		"price": 2050,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandFiend"
+	},
+	{
+		"abr": "fleder",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_Fleder"
+	},
+	{
+		"abr": "fledertrophy",
+		"price": 717,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeFleder"
+	},
+	{
+		"abr": "fogler",
+		"price": 208,
+		"category": "Animal",
+		"defname": "WMH_Fogler"
+	},
+	{
+		"abr": "foglertrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeFogler"
+	},
+	{
+		"abr": "ghoul",
+		"price": 92,
+		"category": "Animal",
+		"defname": "WMH_Ghoul"
+	},
+	{
+		"abr": "ghoultrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeGhoul"
+	},
+	{
+		"abr": "golem",
+		"price": 417,
+		"category": "Animals",
+		"defname": "WMH_Golem"
+	},
+	{
+		"abr": "golemtrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandGolem"
+	},
+	{
+		"abr": "hym",
+		"price": 292,
+		"category": "Animal",
+		"defname": "WMH_Hym"
+	},
+	{
+		"abr": "hymtrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeHym"
+	},
+	{
+		"abr": "kikimorequeen",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_KikimoreQueen"
+	},
+	{
+		"abr": "kikimoretrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandKikimore"
+	},
+	{
+		"abr": "kikimorewarrior",
+		"price": 333,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWarrior"
+	},
+	{
+		"abr": "kikimoreworker",
+		"price": 167,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWorker"
+	},
+	{
+		"abr": "leshy",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "WMH_Leshy"
+	},
+	{
+		"abr": "leshytrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeLeshy"
+	},
+	{
+		"abr": "monstermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_WMH_Chort"
+	},
+	{
 		"abr": "abyssalpearl",
 		"price": 1333,
 		"category": "Manufactured",
@@ -9829,34 +9973,136 @@
 		"defname": "Moyo_Abyssteel"
 	},
 	{
-		"abr": "basilisk",
-		"price": 583,
-		"category": "Animals",
-		"defname": "WMH_Basilisk"
+		"abr": "advancedassembler",
+		"price": 8200,
+		"category": "Production",
+		"defname": "VFEM_ElectronicsFabricationFactory_AdvancedAssembler"
 	},
 	{
-		"abr": "basilisktrophy(grand)",
-		"price": 1375,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyGrandBasilisk"
+		"abr": "advancedchargelance",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedChargeLance"
 	},
 	{
-		"abr": "bearofleet",
-		"price": 200,
-		"category": "Animals",
-		"defname": "WMH_Bearofleet"
+		"abr": "advancedheavychargeblaster",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedChargeBlasterHeavy"
 	},
 	{
-		"abr": "bearofleettrophy(grand)",
-		"price": 1258,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyGrandBearofleet"
+		"abr": "advancedinfernocannon",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedInfernoCannon"
+	},
+	{
+		"abr": "advancedinfernospewer",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedInfernoSpewer"
+	},
+	{
+		"abr": "advancedlightchargeblaster",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedChargeBlasterLight"
+	},
+	{
+		"abr": "advancedneedlegun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedNeedle"
+	},
+	{
+		"abr": "advancedthumpcannon",
+		"price": 3000,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedThumpCannon"
+	},
+	{
+		"abr": "aquaponicsbasin",
+		"price": 8825,
+		"category": "Production",
+		"defname": "VFEM_AquaponicsBasin"
+	},
+	{
+		"abr": "artilleryfoundry",
+		"price": 7700,
+		"category": "Production",
+		"defname": "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry"
+	},
+	{
+		"abr": "autoloom",
+		"price": 3458,
+		"category": "Production",
+		"defname": "VFEM_WearablesAndTextileFactory_AutoLoom"
+	},
+	{
+		"abr": "autobroadcasterchargingstation",
+		"price": 1650,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutobroadcasterBase"
+	},
+	{
+		"abr": "autocleanerchargingstation",
+		"price": 1650,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutocleanerBase"
+	},
+	{
+		"abr": "autocrane",
+		"price": 4750,
+		"category": "Production",
+		"defname": "VFEM_Autocrane"
+	},
+	{
+		"abr": "autohaulerchargingstation",
+		"price": 1367,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutohaulerBase"
+	},
+	{
+		"abr": "automaticdrill",
+		"price": 3808,
+		"category": "Production",
+		"defname": "VFEM_MasonryAndMetallicsFactory_AutomaticDrill"
+	},
+	{
+		"abr": "auto-medicchargingstation",
+		"price": 1850,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutoMedicBase"
+	},
+	{
+		"abr": "autominerchargingstation",
+		"price": 1400,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutominerBase"
+	},
+	{
+		"abr": "auto-mortar",
+		"price": 1317,
+		"category": "Security",
+		"defname": "VFE_Turret_AutoMortar"
+	},
+	{
+		"abr": "autostriderchargingstation",
+		"price": 1850,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutostriderBase"
 	},
 	{
 		"abr": "belial-v",
 		"price": 833,
 		"category": "Drugs",
 		"defname": "Moyo_BelialV"
+	},
+	{
+		"abr": "bionicfoxtail",
+		"price": 2500,
+		"category": "Bionic",
+		"defname": "BionicFennexTail"
 	},
 	{
 		"abr": "bionicmoyotail",
@@ -10003,16 +10249,22 @@
 		"defname": "Moyo_Katana"
 	},
 	{
-		"abr": "chort",
-		"price": 6667,
-		"category": "Animals",
-		"defname": "WMH_Chort"
+		"abr": "chargeblasterturret",
+		"price": 1525,
+		"category": "Security",
+		"defname": "VFE_Turret_AutoChargeBlaster"
 	},
 	{
-		"abr": "chorttrophy(grand)",
-		"price": 3600,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyGrandChort"
+		"abr": "chargelanceturret",
+		"price": 1525,
+		"category": "Security",
+		"defname": "VFE_Turret_AutoChargeLance"
+	},
+	{
+		"abr": "chemfuelclarifier",
+		"price": 4175,
+		"category": "Production",
+		"defname": "VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier"
 	},
 	{
 		"abr": "clear-azure",
@@ -10021,16 +10273,34 @@
 		"defname": "Clensazure"
 	},
 	{
-		"abr": "cyclops",
-		"price": 2500,
-		"category": "Animals",
-		"defname": "WMH_Cyclops"
+		"abr": "clothtail",
+		"price": 667,
+		"category": "Prosthetic",
+		"defname": "ClothTail"
 	},
 	{
-		"abr": "cyclopstrophy(grand)",
-		"price": 1800,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyGrandCyclops"
+		"abr": "combatmechanoidchargingstation",
+		"price": 2042,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_CombatBase"
+	},
+	{
+		"abr": "componentassembler",
+		"price": 5650,
+		"category": "Production",
+		"defname": "VFEM_ElectronicsFabricationFactory_ComponentAssembler"
+	},
+	{
+		"abr": "conduitpylon",
+		"price": 185,
+		"category": "Misc",
+		"defname": "VFE_ConduitPylon"
+	},
+	{
+		"abr": "conveyoroven",
+		"price": 3925,
+		"category": "Production",
+		"defname": "VFEM_ProvisionsPackagingFactory_ConveyorOven"
 	},
 	{
 		"abr": "deepblueserum",
@@ -10057,28 +10327,16 @@
 		"defname": "DetoxerCobalt"
 	},
 	{
-		"abr": "djinn",
-		"price": 417,
-		"category": "Animal",
-		"defname": "WMH_Djinn"
+		"abr": "drugpowderizer",
+		"price": 8533,
+		"category": "Production",
+		"defname": "VFEM_MedicinalCompoundingFactory_DrugPowderizer"
 	},
 	{
-		"abr": "djinntrophy",
-		"price": 517,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeDjinn"
-	},
-	{
-		"abr": "ekimmara",
-		"price": 750,
-		"category": "Animals",
-		"defname": "WMH_Ekimmara"
-	},
-	{
-		"abr": "ekimmaratrophy",
-		"price": 683,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeEkimmara"
+		"abr": "factoryhopper",
+		"price": 138,
+		"category": "Production",
+		"defname": "VFEM_HeavyHopper"
 	},
 	{
 		"abr": "fakemoyotail",
@@ -10087,64 +10345,40 @@
 		"defname": "Moyo_FakeTail"
 	},
 	{
-		"abr": "fiend",
-		"price": 6667,
-		"category": "Animals",
-		"defname": "WMH_Fiend"
-	},
-	{
-		"abr": "fiendtrophy(grand)",
-		"price": 2050,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyGrandFiend"
-	},
-	{
-		"abr": "fleder",
-		"price": 750,
-		"category": "Animals",
-		"defname": "WMH_Fleder"
-	},
-	{
-		"abr": "fledertrophy",
-		"price": 717,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeFleder"
-	},
-	{
-		"abr": "fogler",
-		"price": 208,
+		"abr": "fennex",
+		"price": 3333,
 		"category": "Animal",
-		"defname": "WMH_Fogler"
+		"defname": "Alien_Fennex"
 	},
 	{
-		"abr": "foglertrophy",
-		"price": 517,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeFogler"
+		"abr": "fennexleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_fenx"
 	},
 	{
-		"abr": "ghoul",
-		"price": 92,
+		"abr": "fennexmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Fennex"
+	},
+	{
+		"abr": "frijjid",
+		"price": 3333,
 		"category": "Animal",
-		"defname": "WMH_Ghoul"
+		"defname": "Alien_Frijjid"
 	},
 	{
-		"abr": "ghoultrophy",
-		"price": 517,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeGhoul"
+		"abr": "frijjidleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_frij"
 	},
 	{
-		"abr": "golem",
-		"price": 417,
-		"category": "Animals",
-		"defname": "WMH_Golem"
-	},
-	{
-		"abr": "golemtrophy(grand)",
-		"price": 1125,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyGrandGolem"
+		"abr": "frijjidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Frijjid"
 	},
 	{
 		"abr": "grandabyssalpearlsculpture",
@@ -10153,40 +10387,22 @@
 		"defname": "PearlSculptureGrand"
 	},
 	{
-		"abr": "hym",
-		"price": 292,
-		"category": "Animal",
-		"defname": "WMH_Hym"
+		"abr": "industrialapiary",
+		"price": 2250,
+		"category": "Production",
+		"defname": "VFE_IndustrialApiary"
 	},
 	{
-		"abr": "hymtrophy",
-		"price": 517,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeHym"
+		"abr": "infernocannonturret",
+		"price": 1675,
+		"category": "Security",
+		"defname": "VFE_Turret_AutoInfernoCannon"
 	},
 	{
-		"abr": "kikimorequeen",
-		"price": 750,
-		"category": "Animals",
-		"defname": "WMH_KikimoreQueen"
-	},
-	{
-		"abr": "kikimoretrophy(grand)",
-		"price": 1125,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyGrandKikimore"
-	},
-	{
-		"abr": "kikimorewarrior",
-		"price": 333,
-		"category": "Animals",
-		"defname": "WMAux_KikimoreWarrior"
-	},
-	{
-		"abr": "kikimoreworker",
-		"price": 167,
-		"category": "Animals",
-		"defname": "WMAux_KikimoreWorker"
+		"abr": "infernospewer",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_InfernoSpewer"
 	},
 	{
 		"abr": "largeabyssalpearlsculpture",
@@ -10195,22 +10411,58 @@
 		"defname": "PearlSculptureLarge"
 	},
 	{
-		"abr": "leshy",
-		"price": 2500,
-		"category": "Animals",
-		"defname": "WMH_Leshy"
+		"abr": "lightchargeblaster",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_ChargeBlasterLight"
 	},
 	{
-		"abr": "leshytrophy",
-		"price": 517,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeLeshy"
+		"abr": "masonrysaw",
+		"price": 3383,
+		"category": "Production",
+		"defname": "VFEM_MasonryAndMetallicsFactory_MasonrySaw"
 	},
 	{
-		"abr": "monstermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WMH_Chort"
+		"abr": "meatgrinder",
+		"price": 3608,
+		"category": "Production",
+		"defname": "VFEM_ProvisionsPackagingFactory_MeatGrinder"
+	},
+	{
+		"abr": "mechanitepants",
+		"price": 600,
+		"category": "Armor",
+		"defname": "VFE_MechanitePants"
+	},
+	{
+		"abr": "mechaniteunderarmor",
+		"price": 683,
+		"category": "Armor",
+		"defname": "VFE_MechaniteUnderArmor"
+	},
+	{
+		"abr": "mechanizedweaponsmith",
+		"price": 3617,
+		"category": "Production",
+		"defname": "VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith"
+	},
+	{
+		"abr": "mechanoidcomponent",
+		"price": 583,
+		"category": "Manufactured",
+		"defname": "VFE_ComponentMechanoid"
+	},
+	{
+		"abr": "medicinegranulator",
+		"price": 6275,
+		"category": "Production",
+		"defname": "VFEM_MedicinalCompoundingFactory_MedicineGranulator"
+	},
+	{
+		"abr": "mobileturretchargingstation",
+		"price": 2108,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_TurretBase"
 	},
 	{
 		"abr": "morphi-blue",
@@ -10561,6 +10813,12 @@
 		"defname": "WMHT_TrophyLargeNekker"
 	},
 	{
+		"abr": "neutroamineinfuser",
+		"price": 4692,
+		"category": "Production",
+		"defname": "VFEM_MedicinalCompoundingFactory_NeutroamineInfuser"
+	},
+	{
 		"abr": "nutritionpack",
 		"price": 25,
 		"category": "Manufactured",
@@ -10572,66 +10830,6 @@
 		"category": "Drugs",
 		"defname": "PenoxyBlue"
 	},
-	{
-		"abr": "regene-blue",
-		"price": 167,
-		"category": "Drugs",
-		"defname": "BlueMed"
-	},
-	{
-		"abr": "sapphiremeth",
-		"price": 58,
-		"category": "Drugs",
-		"defname": "BlueUp"
-	},
-	{
-		"abr": "smallabyssalpearlsculpture",
-		"price": 8275,
-		"category": "Art",
-		"defname": "PearlSculptureSmall"
-	},
-	{
-		"abr": "sustainer-lapis",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "SustainerLapis"
-	},
-	{
-		"abr": "werewolf",
-		"price": 750,
-		"category": "Animals",
-		"defname": "WMH_Werewolf"
-	},
-	{
-		"abr": "werewolftrophy",
-		"price": 692,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeWerewolf"
-	},
-	{
-		"abr": "wraith",
-		"price": 292,
-		"category": "Animal",
-		"defname": "WMH_Wraith"
-	},
-	{
-		"abr": "wraithtrophy",
-		"price": 517,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyLargeWraith"
-	},
-	{
-		"abr": "wyvern",
-		"price": 583,
-		"category": "Animals",
-		"defname": "WMH_Wyvern"
-	},
-	{
-		"abr": "wyverntrophy(grand)",
-		"price": 1375,
-		"category": "Trophies",
-		"defname": "WMHT_TrophyGrandWyvern"
-	}
 	],
-	"total": 1772
+	"total": 1830
 }

@@ -11139,6 +11139,58 @@
       "enabled": true,
       "name": "Moyo",
       "price": 5333
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.02 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+120% Mining speed",
+          "+110% Construction speed",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A curious Fennex race, known for their obsession with information and love for dry climates.",
+      "defName": "Alien_Fennex",
+      "enabled": true,
+      "name": "Fennex",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.92 Move speed",
+          "-5.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+120% Mining speed",
+          "+110% Construction speed",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A curious Fox race, known for their obsession with information and resistance to cold.",
+      "defName": "Alien_Frijjid",
+      "enabled": true,
+      "name": "Frijjid",
+      "price": 3333
     }
   ]
 }
