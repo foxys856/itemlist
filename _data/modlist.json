@@ -162,6 +162,18 @@
     "version": null
   },
   {
+    "author": "Sarg Bjornson and  AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Audioviper (Tweaked by Xaviien)",
     "name": "Weapon Condition Matters, and so does Quality",
     "steamId": null,
@@ -177,12 +189,6 @@
     "author": "Shadowrabbit",
     "name": "[SR]Factional War",
     "steamId": "2534328163",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and  AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
     "version": "1.0.0.0"
   },
   {
@@ -568,6 +574,12 @@
     "name": "Half dragons",
     "steamId": "2556121262",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "ILuvSilicon",
+    "name": "ShadowRimRaces",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Yanzihko",

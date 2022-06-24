@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 100,
 		"karmatype": "Bad"
 	},
 	{
@@ -94,11 +94,6 @@
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
@@ -611,5 +606,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 122
+	"total": 121
 }
