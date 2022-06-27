@@ -10439,6 +10439,74 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy's reflexes are truly out of this world. They can parry melee attacks without any training and with luck even bullets.",
+      "stats": [
+        "+10.0 melee parry melee chance",
+        "+5.0 melee parry projectile chance",
+        "+10.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Supreme Melee (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+10.0 melee parry melee chance",
+          "+5.0 melee parry projectile chance",
+          "+10.0 melee dodge chance"
+        ]
+      },
+      "defName": "SupremeMelee_QuickReflexes",
+      "name": "quickreflexes",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy's reflexes transcend common sense. They can easily parry melee attacks without any training and with a bit of luck even bullets.",
+      "stats": [
+        "+20.0 melee parry melee chance",
+        "+10.0 melee parry projectile chance",
+        "+20.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Supreme Melee (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+20.0 melee parry melee chance",
+          "+10.0 melee parry projectile chance",
+          "+20.0 melee dodge chance"
+        ]
+      },
+      "defName": "SupremeMelee_QuickReflexes",
+      "name": "transcendentreflexes",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
     }
   ],
   "races": [
@@ -10462,7 +10530,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2750
+      "price": 500
     },
     {
       "data": {
@@ -10490,7 +10558,7 @@
       "defName": "GS_Bear_Brown",
       "enabled": true,
       "name": "Brown Ursin",
-      "price": 2500
+      "price": 500
     },
     {
       "data": {
@@ -10518,7 +10586,7 @@
       "defName": "GS_Bear_Cave",
       "enabled": true,
       "name": "Cave Ursin",
-      "price": 2500
+      "price": 500
     },
     {
       "data": {
@@ -10546,7 +10614,7 @@
       "defName": "GS_Bear_Luna",
       "enabled": true,
       "name": "Luna Ursin",
-      "price": 2500
+      "price": 500
     },
     {
       "data": {
@@ -10574,7 +10642,7 @@
       "defName": "GS_Bear_Panda",
       "enabled": true,
       "name": "Panda Ursin",
-      "price": 2500
+      "price": 500
     },
     {
       "data": {
@@ -10602,7 +10670,7 @@
       "defName": "GS_Bear_Polar",
       "enabled": true,
       "name": "Polar Ursin",
-      "price": 2500
+      "price": 500
     },
     {
       "data": {
@@ -10625,7 +10693,7 @@
       "defName": "TRAHS_FurretRace",
       "enabled": true,
       "name": "furret",
-      "price": 3500
+      "price": 700
     },
     {
       "data": {
@@ -10661,7 +10729,7 @@
       "defName": "Fressalfar",
       "enabled": true,
       "name": "Fressalfar",
-      "price": 5000
+      "price": 700
     },
     {
       "data": {
@@ -10697,7 +10765,7 @@
       "defName": "Kisalfar",
       "enabled": true,
       "name": "Kisalfar",
-      "price": 3500
+      "price": 500
     },
     {
       "data": {
@@ -10733,7 +10801,7 @@
       "defName": "YanzihkoCheetah",
       "enabled": true,
       "name": "Cheetah",
-      "price": 3500
+      "price": 500
     },
     {
       "data": {
@@ -10769,7 +10837,7 @@
       "defName": "YanzihkoJaguar",
       "enabled": true,
       "name": "Jaguar",
-      "price": 3000
+      "price": 500
     },
     {
       "data": {
@@ -10805,7 +10873,7 @@
       "defName": "YanzihkoLeo",
       "enabled": true,
       "name": "Leo",
-      "price": 3000
+      "price": 500
     },
     {
       "data": {
@@ -10841,7 +10909,7 @@
       "defName": "YanzihkoPanther",
       "enabled": true,
       "name": "Panther",
-      "price": 3000
+      "price": 500
     },
     {
       "data": {
@@ -10877,7 +10945,7 @@
       "defName": "YanzihkoTigris",
       "enabled": true,
       "name": "Tigris",
-      "price": 3000
+      "price": 500
     },
     {
       "data": {
@@ -10913,7 +10981,7 @@
       "defName": "Sylveon",
       "enabled": true,
       "name": "Sylveon",
-      "price": 5000
+      "price": 700
     },
     {
       "data": {
@@ -10949,7 +11017,7 @@
       "defName": "Lombax",
       "enabled": true,
       "name": "Lombax",
-      "price": 4500
+      "price": 600
     },
     {
       "data": {
@@ -10993,7 +11061,7 @@
       "defName": "NakinRace",
       "enabled": true,
       "name": "Nakin",
-      "price": 5500
+      "price": 700
     },
     {
       "data": {
@@ -11016,7 +11084,7 @@
       "defName": "AngelRace",
       "enabled": true,
       "name": "angel race",
-      "price": 6000
+      "price": 1000
     },
     {
       "data": {
@@ -11039,7 +11107,7 @@
       "defName": "DeathAngelRace",
       "enabled": true,
       "name": "death angel race",
-      "price": 6000
+      "price": 1000
     },
     {
       "data": {
@@ -11084,7 +11152,7 @@
       "defName": "HalfDragon",
       "enabled": true,
       "name": "Half-Dragon",
-      "price": 10000
+      "price": 1000
     },
     {
       "data": {
@@ -11105,7 +11173,7 @@
       "defName": "TRAHS_ZeraoraRace",
       "enabled": true,
       "name": "zeraora",
-      "price": 3500
+      "price": 500
     },
     {
       "data": {
@@ -11138,7 +11206,7 @@
       "defName": "Alien_Moyo",
       "enabled": true,
       "name": "Moyo",
-      "price": 5500
+      "price": 700
     },
     {
       "data": {
@@ -11164,7 +11232,7 @@
       "defName": "Alien_Fennex",
       "enabled": true,
       "name": "Fennex",
-      "price": 3333
+      "price": 500
     },
     {
       "data": {
@@ -11190,7 +11258,7 @@
       "defName": "Alien_Frijjid",
       "enabled": true,
       "name": "Frijjid",
-      "price": 3333
+      "price": 500
     },
     {
       "data": {
@@ -11222,7 +11290,7 @@
       "defName": "DwarfRace",
       "enabled": true,
       "name": "dwarf",
-      "price": 4667
+      "price": 600
     },
     {
       "data": {
@@ -11258,7 +11326,7 @@
       "defName": "ElfRace",
       "enabled": true,
       "name": "elf",
-      "price": 5833
+      "price": 800
     },
     {
       "data": {
@@ -11287,7 +11355,7 @@
       "defName": "OrcRace",
       "enabled": true,
       "name": "orc",
-      "price": 2917
+      "price": 800
     },
     {
       "data": {
@@ -11322,7 +11390,557 @@
       "defName": "TrollRace",
       "enabled": true,
       "name": "troll",
-      "price": 8000
+      "price": 1000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.5 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Catgirl",
+      "enabled": true,
+      "name": "Catgirl",
+      "price": 700
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.10 Move speed",
+          "-20.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+25.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Wolfgirl",
+      "enabled": true,
+      "name": "Wolfgirl",
+      "price": 900
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Foxgirl",
+      "enabled": true,
+      "name": "Foxgirl",
+      "price": 700
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.00 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+60 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Cowgirl that has developed a semblance of intelligence.",
+      "defName": "MG_Cowgirl",
+      "enabled": true,
+      "name": "Cowgirl",
+      "price": 500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+90% Flammability",
+          "+$1600 Market value",
+          "+4.80 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+45 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Harpy that has developed a semblance of intelligence.",
+      "defName": "MG_Harpy",
+      "enabled": true,
+      "name": "Harpy",
+      "price": 500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1800 Market value",
+          "+4.00 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+60.0C Maximum comfortable temperature",
+          "+200% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
+      "defName": "MG_Slime",
+      "enabled": true,
+      "name": "Slime",
+      "price": 800
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+70% Flammability",
+          "+$1850 Market value",
+          "+4.60 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+10% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+120.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Baphomet that has developed a semblance of intelligence.",
+      "defName": "MG_Baphomet",
+      "enabled": true,
+      "name": "Baphomet",
+      "price": 500
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+6.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+7.5% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+75 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+75% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Centaur that has developed a semblance of intelligence.",
+      "defName": "MG_Centaur",
+      "enabled": true,
+      "name": "Centaur",
+      "price": 700
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+80% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+500% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+500% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
+      "defName": "MG_ForestFairy",
+      "enabled": true,
+      "name": "ForestFairy",
+      "price": 500
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+50% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "-300.0C Minimum comfortable temperature",
+          "+0.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+120% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
+      "defName": "MG_IceFairy",
+      "enabled": true,
+      "name": "IceFairy",
+      "price": 500
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+5% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-20.0C Minimum comfortable temperature",
+          "+100.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
+      "defName": "MG_Dragon",
+      "enabled": true,
+      "name": "Dragon",
+      "price": 600
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+120% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-55.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+15.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Thrumbogirl",
+      "enabled": true,
+      "name": "Thrumbogirl",
+      "price": 600
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+60% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+150% Mining speed",
+          "+150% General labor speed",
+          "+150% Smoothing speed",
+          "+150% Animal gather speed",
+          "+150% Construction speed",
+          "+150% Medical tend speed",
+          "+150% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+3 Honor value",
+          "+10.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+50% Toxic sensitivity",
+          "+200% Eating speed",
+          "+72 Meat amount",
+          "+40 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+125% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix",
+      "enabled": true,
+      "name": "Skrix",
+      "price": 500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+60% Flammability",
+          "+$1800 Market value",
+          "+5.60 Move speed",
+          "+125% Mining speed",
+          "+125% General labor speed",
+          "+125% Smoothing speed",
+          "+125% Animal gather speed",
+          "+125% Construction speed",
+          "+125% Medical tend speed",
+          "+125% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+50 Carrying capacity",
+          "+5 Honor value",
+          "+15.0% Armor - Sharp",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+50% Toxic sensitivity",
+          "+200% Eating speed",
+          "+60 Meat amount",
+          "+33 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+90% Aiming time",
+          "+125.00% Negotiation ability",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix_Noble",
+      "enabled": true,
+      "name": "Skrix",
+      "price": 500
+    },
+    {
+      "data": {
+        "stats": [
+          "+100.00 Mass",
+          "+50% Flammability",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "+125% Mining speed",
+          "+125% General labor speed",
+          "+125% Smoothing speed",
+          "+125% Animal gather speed",
+          "+125% Construction speed",
+          "+125% Medical tend speed",
+          "+125% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+4 Honor value",
+          "+40.0% Armor - Sharp",
+          "+35.0% Armor - Blunt",
+          "+50.0% Armor - Heat",
+          "+25% Toxic sensitivity",
+          "+200% Eating speed",
+          "+65 Meat amount",
+          "+35 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix_Soldier",
+      "enabled": true,
+      "name": "Skrix",
+      "price": 600
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+50% Flammability",
+          "+$2500 Market value",
+          "+5.60 Move speed",
+          "+150% Mining speed",
+          "+150% General labor speed",
+          "+150% Smoothing speed",
+          "+150% Animal gather speed",
+          "+150% Construction speed",
+          "+150% Medical tend speed",
+          "+150% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+7 Honor value",
+          "+40.0% Armor - Sharp",
+          "+35.0% Armor - Blunt",
+          "+50.0% Armor - Heat",
+          "+25% Toxic sensitivity",
+          "+200% Eating speed",
+          "+45 Meat amount",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+90% Aiming time",
+          "+150.00% Negotiation ability",
+          "+150.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix_Royal",
+      "enabled": true,
+      "name": "Skrix",
+      "price": 600
     }
   ]
 }

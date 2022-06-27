@@ -12,6 +12,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "DimonSever000",
+    "name": "Backstories+",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -162,6 +168,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  dninemfive and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg Bjornson and  AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
@@ -264,6 +276,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -333,7 +351,7 @@
     "author": "José Ángel Soler Ortiz",
     "name": "TraderGen",
     "steamId": "2804121197",
-    "version": "0.2.0.0"
+    "version": "0.2.1.0"
   },
   {
     "author": "Owlchemist",
@@ -518,6 +536,24 @@
   {
     "author": "AlexisPopcorn",
     "name": "[AP] Defense Meme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "wagon",
+    "name": "More Monster Girls",
+    "steamId": "2014838309",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razar1",
+    "name": "Skrix - An Insect-like Race",
     "steamId": null,
     "version": null
   },
@@ -910,6 +946,54 @@
     "name": "No Natural Psyfocus Decrease",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Paint Shop",
+    "steamId": "1579516669",
+    "version": "1.1.7359"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Mechanoid+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spino",
+    "name": "Mechanoids Extraordinaire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion,  JoeysLucky22 and  Erdelf",
+    "name": "More Mechanoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]Advanced Mechanoid Warfare",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien,  Taranchuk,  OskarPotocki,  Luizi,  IcingWithCheeseCake,  Sir Van and  Reann_Shepard",
+    "name": "Reinforced Mechanoids: Tyrikan-Line",
+    "steamId": "2798710610",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ChJees",
+    "name": "Supreme Melee (Continued)",
+    "steamId": "2311299987",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Events+",
+    "steamId": "2599784515",
+    "version": "1.0.0.0"
   },
   {
     "author": "AUTOMATIC",
