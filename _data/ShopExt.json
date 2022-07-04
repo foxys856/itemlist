@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -26,8 +26,8 @@
       "name": "nudist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -60,8 +60,8 @@
       "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -92,8 +92,8 @@
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -124,8 +124,8 @@
       "name": "psychopath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -154,8 +154,8 @@
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -192,8 +192,8 @@
       "name": "abrasive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -234,8 +234,8 @@
       "name": "toosmart",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -280,8 +280,8 @@
       "name": "brawler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -310,8 +310,8 @@
       "name": "masochist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -340,8 +340,8 @@
       "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -372,8 +372,8 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -404,8 +404,8 @@
       "name": "jealous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -442,8 +442,8 @@
       "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -472,8 +472,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -502,8 +502,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -532,8 +532,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -564,8 +564,8 @@
       "name": "annoyingvoice",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -594,8 +594,8 @@
       "name": "creepybreathing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -626,8 +626,8 @@
       "name": "pyromaniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -676,8 +676,8 @@
       "name": "wimp",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -708,8 +708,8 @@
       "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -742,8 +742,8 @@
       "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -774,8 +774,8 @@
       "name": "slowlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -804,8 +804,8 @@
       "name": "undergrounder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -834,8 +834,8 @@
       "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -864,8 +864,8 @@
       "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -894,8 +894,8 @@
       "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -924,8 +924,8 @@
       "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -954,8 +954,8 @@
       "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -984,8 +984,8 @@
       "name": "tough",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -1014,8 +1014,8 @@
       "name": "torturedartist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -1046,8 +1046,8 @@
       "name": "gourmand",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -1076,8 +1076,8 @@
       "name": "quicksleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -1112,8 +1112,8 @@
       "name": "slowpoke",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -1146,8 +1146,8 @@
       "name": "fastwalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -1180,8 +1180,8 @@
       "name": "jogger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -1210,8 +1210,8 @@
       "name": "chemicalfascination",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -1240,8 +1240,8 @@
       "name": "chemicalinterest",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -1272,8 +1272,8 @@
       "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -1302,8 +1302,8 @@
       "name": "sanguine",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -1332,8 +1332,8 @@
       "name": "optimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -1362,8 +1362,8 @@
       "name": "pessimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -1394,8 +1394,8 @@
       "name": "depressive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -2
     },
     {
@@ -1430,8 +1430,8 @@
       "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -1466,8 +1466,8 @@
       "name": "steadfast",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -1502,8 +1502,8 @@
       "name": "nervous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -1538,8 +1538,8 @@
       "name": "volatile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -2
     },
     {
@@ -1570,8 +1570,8 @@
       "name": "neurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -1602,8 +1602,8 @@
       "name": "veryneurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -1634,8 +1634,8 @@
       "name": "industrious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -1666,8 +1666,8 @@
       "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -1698,8 +1698,8 @@
       "name": "lazy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -1730,8 +1730,8 @@
       "name": "slothful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -2
     },
     {
@@ -1760,8 +1760,8 @@
       "name": "psychicallyhypersensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -1790,8 +1790,8 @@
       "name": "psychicallysensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -1820,8 +1820,8 @@
       "name": "psychicallydull",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -1850,8 +1850,8 @@
       "name": "psychicallydeaf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -2
     },
     {
@@ -1882,8 +1882,8 @@
       "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -1914,8 +1914,8 @@
       "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -1944,8 +1944,8 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -1974,8 +1974,8 @@
       "name": "pretty",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -2004,8 +2004,8 @@
       "name": "ugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -2034,8 +2034,8 @@
       "name": "staggeringlyugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -2
     },
     {
@@ -2064,8 +2064,8 @@
       "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -2094,8 +2094,8 @@
       "name": "sickly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -2126,39 +2126,9 @@
       "name": "expertshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
-    },
-    {
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
     },
     {
       "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
@@ -2186,8 +2156,8 @@
       "name": "warcasket",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2216,8 +2186,8 @@
       "name": "shellcasket",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2246,8 +2216,8 @@
       "name": "xenophobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -2276,8 +2246,8 @@
       "name": "xenophile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -2310,8 +2280,8 @@
       "name": "holographic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2376,8 +2346,8 @@
       "name": "psionic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2408,8 +2378,8 @@
       "name": "creative(outdated)",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2437,9 +2407,9 @@
       "defName": "LC_Immortal",
       "name": "immortal",
       "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "canRemove": true,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2468,8 +2438,8 @@
       "name": "indifferent",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2566,8 +2536,8 @@
       "name": "lonewolf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2632,8 +2602,8 @@
       "name": "gunslinger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2698,8 +2668,8 @@
       "name": "duelist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -2764,8 +2734,8 @@
       "name": "meatshield",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -2830,8 +2800,8 @@
       "name": "fighter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 3
     },
     {
@@ -2896,8 +2866,8 @@
       "name": "mason",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -2962,8 +2932,8 @@
       "name": "shepherd",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -3026,8 +2996,8 @@
       "name": "hunter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -3090,8 +3060,8 @@
       "name": "crafter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -3152,8 +3122,8 @@
       "name": "artisan",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -3216,8 +3186,8 @@
       "name": "nurse",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -3280,8 +3250,8 @@
       "name": "surgeon",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -3348,8 +3318,8 @@
       "name": "chef",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -3416,8 +3386,8 @@
       "name": "miner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -3484,8 +3454,8 @@
       "name": "diplomat",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -3548,8 +3518,8 @@
       "name": "scientist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -3610,8 +3580,8 @@
       "name": "researcher",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -3676,8 +3646,8 @@
       "name": "herbalist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -3740,8 +3710,8 @@
       "name": "hauler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -3772,8 +3742,8 @@
       "name": "frailback",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -3802,8 +3772,8 @@
       "name": "strongback",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -3832,8 +3802,8 @@
       "name": "verystrongback",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -3874,8 +3844,8 @@
       "name": "animalfriend",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -3918,8 +3888,8 @@
       "name": "ghoulish",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -3950,8 +3920,8 @@
       "name": "radresistant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -3998,8 +3968,8 @@
       "name": "actionboy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4046,8 +4016,8 @@
       "name": "actiongirl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4082,8 +4052,8 @@
       "name": "quickhands",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4128,8 +4098,8 @@
       "name": "idiotsavant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4170,8 +4140,8 @@
       "name": "charismatic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -4212,8 +4182,8 @@
       "name": "verycharismatic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -4248,8 +4218,8 @@
       "name": "gunnut",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4292,8 +4262,8 @@
       "name": "rooted",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4326,8 +4296,8 @@
       "name": "intimidating",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -4362,8 +4332,8 @@
       "name": "veryintimidating",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -4402,8 +4372,8 @@
       "name": "scrapper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4440,8 +4410,8 @@
       "name": "fortunefinder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4474,8 +4444,8 @@
       "name": "pooraim",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": -1
     },
     {
@@ -4508,8 +4478,8 @@
       "name": "steadyaim",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -4548,8 +4518,8 @@
       "name": "agile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -4588,8 +4558,8 @@
       "name": "ninja-like",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -4642,8 +4612,8 @@
       "name": "stupid",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4686,8 +4656,8 @@
       "name": "intelligent",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -4730,8 +4700,8 @@
       "name": "veryintelligent",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -4788,8 +4758,8 @@
       "name": "oblivious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4838,8 +4808,8 @@
       "name": "perceptive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -4888,8 +4858,8 @@
       "name": "veryperceptive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     },
     {
@@ -4924,8 +4894,8 @@
       "name": "scrounger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -4970,8 +4940,8 @@
       "name": "enduring",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -5016,499 +4986,9 @@
       "name": "veryenduring",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
-    },
-    {
-      "description": "Timmy is a Vulpian, and he is absolutely adorable, as expected from gene-engineered servitor. Even animals are attracted by his adorable appearence. Even plants start to bloom around Timmy!",
-      "stats": [
-        "+5 social",
-        "+3 intellectual",
-        "+2 animals",
-        "+2 plants",
-        "+25.00% train animal chance",
-        "+10.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 social",
-          "+3 intellectual",
-          "+2 animals",
-          "+2 plants",
-          "+25.00% train animal chance",
-          "+10.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ]
-      },
-      "defName": "VAF_Vulpian",
-      "name": "vulpian",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Lombax. he has an incredible natural inclination towards Crafting, Engineering and Combat just like other representatives of his species. But due to natural inclination of Lombaxes to solve all problems with brute force, Timmy is not very good in \"Social\" things.",
-      "stats": [
-        "+5 shooting",
-        "+5 melee",
-        "+3 crafting",
-        "+3 construction",
-        "-5 social",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 shooting",
-          "+5 melee",
-          "+3 crafting",
-          "+3 construction",
-          "-5 social",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "LDW_Lombax",
-      "name": "lombax",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Braixen. Timmy has an incredible natural inclination towards psionics and manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+25.00% train animal chance",
-        "+25.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+25.00% train animal chance",
-          "+25.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ]
-      },
-      "defName": "BDFP_Braixen",
-      "name": "braixen",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Delphox. Timmy is a powerful psychic and is inclined towards manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+25.00% train animal chance",
-        "+25.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+25.00% train animal chance",
-          "+25.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ]
-      },
-      "defName": "BDFP_Delphox",
-      "name": "delphox",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Kisalfar. While Kisalfar are \"inferior\" compared to Fressalfar in terms of intelligence, they're incredibly good in \"social\" things and negotiations.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ]
-      },
-      "defName": "KFLS_Kisalfar",
-      "name": "kisalfar",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Fressalfar. Timmy is just like a Thrumbo that is hidden in his DNA - Highly Intelligent and not really Social. It is very hard to approach him and start a conversation.",
-      "stats": [
-        "+5 intellectual",
-        "+3 crafting",
-        "-5 social",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 intellectual",
-          "+3 crafting",
-          "-5 social",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "KFLS_Fressalfar",
-      "name": "fressalfar",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Cheetah. Timmy is a great runner with a sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+5 shooting",
-        "+3 animals",
-        "-5 social",
-        "+0.3 melee dodge chance",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 shooting",
-          "+3 animals",
-          "-5 social",
-          "+0.3 melee dodge chance",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "FFR_Cheetah",
-      "name": "cheetah",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Leo. Timmy is a great natural predator with sharp sight and is rather Social, compared to other Feline species.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "+2 social",
-        "+0.3 shooting accuracy"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "+2 social",
-          "+0.3 shooting accuracy"
-        ]
-      },
-      "defName": "FFR_Leo",
-      "name": "leo",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Jaguar. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "FFR_Jaguar",
-      "name": "jaguar",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Panther. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "FFR_Panther",
-      "name": "panther",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Tigris. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "FFR_Tigris",
-      "name": "tigris",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Sylveon, and he is absolutely adorable, as expected from gene-engineered servitor. Sylveons were gene-engineered to be a productive workers at assembly line and basic principles of Crafting are embedded in their DNA.",
-      "stats": [
-        "+5 social",
-        "+5 crafting",
-        "+3 intellectual",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko Races - Rebalance Submod [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 social",
-          "+5 crafting",
-          "+3 intellectual",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ]
-      },
-      "defName": "SFP_Sylveon",
-      "name": "sylveon",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
     },
     {
       "description": "Timmy is uncommonly agile and stealthy, with better reflexes and a more flexible body than most.",
@@ -5544,8 +5024,8 @@
       "name": "stealthy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5576,8 +5056,8 @@
       "name": "animalfriend",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5608,8 +5088,8 @@
       "name": "architect",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5638,8 +5118,8 @@
       "name": "creativethinker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5672,8 +5152,8 @@
       "name": "fortunate",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5704,8 +5184,8 @@
       "name": "greenthumb",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5721,7 +5201,7 @@
       "bypassLimit": true,
       "data": {
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[SYR] Individuality",
         "karmaTypeForAdding": null,
@@ -5735,11 +5215,11 @@
         ]
       },
       "defName": "SYR_GunNut",
-      "name": "gunnut",
-      "canAdd": false,
+      "name": "gunnut1",
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5772,8 +5252,8 @@
       "name": "hand-eyecoordination",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5802,8 +5282,8 @@
       "name": "keeneye",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5832,8 +5312,8 @@
       "name": "mechanoidexpert",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5862,8 +5342,8 @@
       "name": "perfectionist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5896,8 +5376,8 @@
       "name": "silvertongue",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5930,8 +5410,8 @@
       "name": "steadyhands",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5960,8 +5440,8 @@
       "name": "strongback",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -5990,8 +5470,8 @@
       "name": "elder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -6020,8 +5500,8 @@
       "name": "tough",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -6074,8 +5554,8 @@
       "name": "humanblooded",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -6104,8 +5584,8 @@
       "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -6148,8 +5628,8 @@
       "name": "brawler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -6276,8 +5756,8 @@
       "name": "talent:bowman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6404,8 +5884,8 @@
       "name": "talent:swordsman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6520,8 +6000,8 @@
       "name": "talent:builder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6636,8 +6116,8 @@
       "name": "talent:miner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6750,8 +6230,8 @@
       "name": "talent:kitchenhand",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6868,8 +6348,8 @@
       "name": "talent:butcher",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6982,8 +6462,8 @@
       "name": "talent:farmer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7100,8 +6580,8 @@
       "name": "talent:herder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7212,8 +6692,8 @@
       "name": "talent:smith",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7324,8 +6804,8 @@
       "name": "talent:tailor",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7436,8 +6916,8 @@
       "name": "talent:artist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7558,8 +7038,8 @@
       "name": "talent:physician",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7676,8 +7156,8 @@
       "name": "talent:trader",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7792,8 +7272,8 @@
       "name": "talent:scholar",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7910,8 +7390,8 @@
       "name": "talent:groundskeeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8022,8 +7502,8 @@
       "name": "talent:copycat",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8150,8 +7630,8 @@
       "name": "talent:weaponsmaster",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8280,8 +7760,8 @@
       "name": "talent:hunter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8404,8 +7884,8 @@
       "name": "talent:engineer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8528,8 +8008,8 @@
       "name": "talent:cook",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8656,8 +8136,8 @@
       "name": "talent:herbalist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8776,8 +8256,8 @@
       "name": "talent:armourer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8906,8 +8386,8 @@
       "name": "talent:fletcher",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9034,8 +8514,8 @@
       "name": "talent:veterinarian",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9168,8 +8648,8 @@
       "name": "talent:adventurer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9298,8 +8778,8 @@
       "name": "talent:architect",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9422,8 +8902,8 @@
       "name": "talent:chef",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9546,8 +9026,8 @@
       "name": "talent:surgeon",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9670,8 +9150,8 @@
       "name": "talent:philosopher",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9808,8 +9288,8 @@
       "name": "talent:scout",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9940,8 +9420,8 @@
       "name": "talent:recruiter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -10058,8 +9538,8 @@
       "name": "talent:jack-of-all-trades",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -10192,8 +9672,8 @@
       "name": "talent:hero",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -10328,8 +9808,8 @@
       "name": "talent:herald",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -10436,8 +9916,8 @@
       "name": "notalent",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 0
     },
     {
@@ -10470,8 +9950,8 @@
       "name": "quickreflexes",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 1
     },
     {
@@ -10504,8 +9984,8 @@
       "name": "transcendentreflexes",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 200,
+      "removePrice": 200,
       "degree": 2
     }
   ],
@@ -10694,330 +10174,6 @@
       "enabled": true,
       "name": "furret",
       "price": 700
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+70% Flammability",
-          "+2.0 Beauty",
-          "+75 Carrying capacity",
-          "+110% Pain shock threshold",
-          "+$3000 Market value",
-          "+7.00 Move speed",
-          "+110% Immunity gain speed",
-          "+10.0C Minimum comfortable temperature",
-          "+25.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+110% Global work speed",
-          "+200% Research speed",
-          "+150% Global learning factor",
-          "+110% Psychic sensitivity",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+110% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A marvel of genetic engineering created on a far off glitterworld on the verge of transcendence. The Fressalfar were the result of a lone scientists quest to engineer the perfect being that did not rely on the taint of mechanite technology. Pods of them were sent off to rimworlds all across the universe in an effort to save his creation before the AI scourge devoured their homeworld. Believed to be the genetic combination of hyper-intelligent felines, thrumbos, and human DNA; the Fressalfar are fast, highly intelligent, and incredibly beautiful.",
-      "defName": "Fressalfar",
-      "enabled": true,
-      "name": "Fressalfar",
-      "price": 700
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$2000 Market value",
-          "+5.00 Move speed",
-          "+100% Immunity gain speed",
-          "+10.0C Minimum comfortable temperature",
-          "+25.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+110% Global work speed",
-          "+175% Research speed",
-          "+135% Global learning factor",
-          "+110% Psychic sensitivity",
-          "+80% Mining speed",
-          "+150.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.0 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Genetic descendants of the Fressalfar. The Kisalfar are slightly inferior the Fressalfar due to the highly unstable genome not replicating perfectly outside of lab conditions. Physically this led to the lost of their highly coveted horns and some would say they could never live up to the original race. However, the combination of high intelligence and growing up in a natural environment means the  Kisalfar are much more attuned with the ways of their home world and those around them. What they lost in speed and beauty they make up for in natural charm and instinct and they have proven an ability to get along with humans in a way the Fressalfar never could.",
-      "defName": "Kisalfar",
-      "enabled": true,
-      "name": "Kisalfar",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+$2000 Market value",
-          "+9.00 Move speed",
-          "+95% Immunity gain speed",
-          "+20.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+110% Research speed",
-          "+110% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+50% Mining speed",
-          "+90.00% Social impact",
-          "+50% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+2.0 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Cheetah are perhaps one of the fastest Felines with an instant reaction. They literally dance around an opponent in melee fight and even dodge bullets if lucky enough. Cheetah are one of the most intelligent felines and are more social, compared to most felines.",
-      "defName": "YanzihkoCheetah",
-      "enabled": true,
-      "name": "Cheetah",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$1750 Market value",
-          "+6.00 Move speed",
-          "+100% Immunity gain speed",
-          "+20.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+100% Research speed",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+90.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Jaguars are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
-      "defName": "YanzihkoJaguar",
-      "enabled": true,
-      "name": "Jaguar",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$1750 Market value",
-          "+6.00 Move speed",
-          "+100% Immunity gain speed",
-          "+20.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+100% Research speed",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+110.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Leo, unlike other Felines, are very social beings and feel themselves confident in all kinds of discussions.",
-      "defName": "YanzihkoLeo",
-      "enabled": true,
-      "name": "Leo",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$1750 Market value",
-          "+6.00 Move speed",
-          "+100% Immunity gain speed",
-          "+20.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+100% Research speed",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+90.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Panthers do not have any special features compared to other felines, expect their dark black fur. They are not a very social beings and tend to spend their free time alone.",
-      "defName": "YanzihkoPanther",
-      "enabled": true,
-      "name": "Panther",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$1750 Market value",
-          "+6.00 Move speed",
-          "+100% Immunity gain speed",
-          "+10.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+100% Research speed",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+90.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.1 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Tigris are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
-      "defName": "YanzihkoTigris",
-      "enabled": true,
-      "name": "Tigris",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+2.0 Beauty",
-          "+75 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+$3000 Market value",
-          "+5.00 Move speed",
-          "+95% Immunity gain speed",
-          "+25.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+200% Global work speed",
-          "+125% Research speed",
-          "+110% Global learning factor",
-          "+110% Psychic sensitivity",
-          "+50% Mining speed",
-          "+150.00% Social impact",
-          "+50% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.0 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Sylveon is a vulpine and lupine hybrid species engineered by maniacal owner of an industrial company in a now ravaged glitterworld to be a cheap working force at all kinds of company's facilities. Sylveon's adorable appearence has no practical purpose and was a purely aesthetic choice. All sylveons sport a telltale ribbonlike appendage set connected to their heads near a bowlike organ allowing them to move their ribbons with extreme precision and preform menial tasks easily while using their hands for specific and higher skill actions. Sylveons also boast a high intellectual ability yet have much weaker physical strength due to it being useless in high tech facilities and conditions of glitterworld. Sylveons are incredible crafters and even good researchers. But their bodies are incredibly weak and any injury of the bows dramatically reduces their productivity.",
-      "defName": "Sylveon",
-      "enabled": true,
-      "name": "Sylveon",
-      "price": 700
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+75 Carrying capacity",
-          "+110% Pain shock threshold",
-          "+$2500 Market value",
-          "+5.00 Move speed",
-          "+110% Immunity gain speed",
-          "+30.0C Minimum comfortable temperature",
-          "+60.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+140 Meat amount",
-          "+100% Global work speed",
-          "+100% Research speed",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+100% Mining speed",
-          "+90.00% Social impact",
-          "+100% Construction speed",
-          "+100% Animal gather speed",
-          "+100% Animal gather yield",
-          "+1.0 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Lombax is a distant descendant of human race with feline features. Representatives of this species are great warriors and engineers. Despite their size, their bodies are surprisingly tough. Lombaxes are originated from Fastoon - glitterworld with dry desert climate. They prefer to live in hot enviroment.",
-      "defName": "Lombax",
-      "enabled": true,
-      "name": "Lombax",
-      "price": 600
     },
     {
       "data": {
@@ -11934,12 +11090,12 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Royal",
       "enabled": true,
-      "name": "Skrix",
+      "name": "skrixbig",
       "price": 600
     }
   ]
